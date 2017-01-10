@@ -7,7 +7,7 @@ tagline: Kuratierte Quellen für Blogger, Journalisten und Autoren.
 github: 'https://github.com/nihilor/recherchequellen'
 baseurl: '/recherchequellen'
 url: 'https://nihilor.github.io/recherchequellen'
-footer: 'Designed, built, and maintained by <a href="http://twitter.com/marklubkowitz">@marklubkowitz</a>. Based upon Kurator, a jekyll theme, by <a href="http://twitter.com/marklubkowitz">@marklubkowitz</a>.<br>Code licensed under <a href="https://github.com/nihilor/kurator/blob/master/LICENSE">MIT</a>. Content licensed under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>'
+footer: 'Designed, built, and maintained by <a href="http://twitter.com/marklubkowitz">@marklubkowitz</a>. Based upon <a href="https://github.com/nihilor/kurator">Kurator, a jekyll theme</a>, by <a href="http://twitter.com/marklubkowitz">@marklubkowitz</a>.<br>Code licensed under <a href="https://github.com/nihilor/kurator/blob/master/LICENSE">MIT</a>. Content licensed under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>'
 
 # GOOGLE ANALYTICS
 googleanalytics: 
