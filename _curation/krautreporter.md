@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Startnext
+title: Krautreporter
 category: Crowdfunding
 thumbnail:
 gallery:
