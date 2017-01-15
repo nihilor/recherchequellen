@@ -14,11 +14,11 @@ googleanalytics:
 
 # STRINGS
 translation:
-    description: Beschreibung
-    profiles: Profile
-    gallery: Galerie
-    contact: Kontakt
-    about: &Uuml;ber
+    description: 'Beschreibung'
+    profiles: 'Profile'
+    gallery: 'Galerie'
+    contact: 'Kontakt'
+    about: '&Uuml;ber'
 
 # PROFILES
 profiles:
