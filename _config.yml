@@ -12,6 +12,12 @@ footer: 'Designed, built, and maintained by <a href="http://twitter.com/marklubk
 # GOOGLE ANALYTICS
 googleanalytics: 
 
+# STRINGS
+translation:
+    description: Description
+    profiles: Profiles
+    gallery: Gallery
+
 # PROFILES
 profiles:
     - name: Twitter
@@ -30,7 +36,7 @@ profiles:
 
 # OPENGRAPH
 opengraph:
-    locale: en_US
+    locale: de_DE
     type: website
     title: Recherchequellen - Kuratierte Auswahl hilfreicher Recherchequellen
     description: Kuratierte Quellen für Blogger, Journalisten und Autoren.
